@@ -45,10 +45,14 @@ npx hardhat verify --network sepolia <CONTRACT_ADDRESS>
 Run tests on Sepolia
 npx hardhat test --network sepolia
 
-Install frontend dependencies 
+### Install frontend dependencies
+
 From the project root:
+
+```bash
 cd ..
 npm install
+cd packages/site
 npm run dev
 
 Launch frontend 
