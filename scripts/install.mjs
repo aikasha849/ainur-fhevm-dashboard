@@ -1,3 +1,10 @@
+/**
+ * Ainur's FHEVM Dashboard
+ * Install script adapted by Ainur
+ * Based on fhevm-react-template from Zama
+ * Customized for FHEVM v0.7 — research edition focused on privacy
+ */
+
 // Cross-platform script so it works on Windows as well
 import { exec } from "child_process";
 import * as fs from "fs";

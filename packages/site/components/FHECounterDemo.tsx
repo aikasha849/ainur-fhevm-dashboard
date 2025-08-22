@@ -1,3 +1,9 @@
+/**
+ * Ainur's FHEVM Dashboard
+ * Adapted from Zama's fhevm-react-template
+ * Customized for FHEVM v0.7 — research edition focused on privacy
+ */
+
 "use client";
 
 import { useFhevm } from "../fhevm/useFhevm";

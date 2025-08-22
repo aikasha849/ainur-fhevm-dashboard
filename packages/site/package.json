@@ -1,13 +1,13 @@
 {
-  "name": "fhevm-react-template",
+  "name": "ainur-fhevm-dashboard",
   "version": "0.3.0",
   "private": true,
   "license": "BSD-3-Clause-Clear",
-  "homepage": "https://github.com/zama-ai/fhevm-react-template/blob/main/packages/site/README.md",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zama-ai/fhevm-react-template.git"
-  },
+  "homepage": "https://github.com/aikasha849/ainur-fhevm-dashboard",
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/aikasha849/ainur-fhevm-dashboard.git"
+},
   "scripts": {
     "clean": "rimraf .next",
     "dev:mock": "npm run ishhrunning && npm run clean && npm run genabi && next dev --turbopack",
