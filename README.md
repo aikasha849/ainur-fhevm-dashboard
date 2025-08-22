@@ -67,10 +67,8 @@ packages/site/hooks/metamask: MetaMask wallet integration hooks
 ## 📚 Resources
 
 - 📖 [Zama FHEVM Documentation](https://docs.zama.ai/) — official protocol docs and guides  
-- 🛠️ [Hardhat + MetaMask Setup Guide](https://docs.zama.ai/protocol/solidity-guides/development-guide/migration) —
-migration steps for FHEVM v0.7  
-- 📦 [@zama-fhe/relayer-sdk on npm](https://www.npmjs.com/package/@zama-fhe/relayer-sdk) —
-SDK for interacting with the Decryption Oracle
+- 🛠️ [Hardhat + MetaMask Setup Guide](https://docs.zama.ai/protocol/solidity-guides/development-guide/migration) — migration steps for FHEVM v0.7  
+- 📦 [@zama-fhe/relayer-sdk on npm](https://www.npmjs.com/package/@zama-fhe/relayer-sdk) — SDK for interacting with the Decryption Oracle
 
 👤 Author & Contact
 Ainur — developer, researcher, and enthusiast of privacy-first technologies. 
